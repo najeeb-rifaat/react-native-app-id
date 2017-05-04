@@ -3,7 +3,7 @@
     "name": "kyle-ssg"
   },
   "bin": {
-    "react-native-app-id": "index.js"
+    "react-native-app-id-fixed": "index.js"
   },
   "bugs": {
     "url": "https://github.com/kyle-ssg/react-native-app-id/issues"
@@ -20,17 +20,17 @@
   "keywords": [],
   "license": "ISC",
   "main": "index.js",
-  "name": "react-native-app-id",
+  "name": "react-native-app-id-fixed",
   "optionalDependencies": {},
   "peerDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kyle-ssg/react-app-id.git"
+    "url": "git+https://github.com/najeeb-rifaat/react-native-app-id.git"
   },
   "scripts": {
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.2.0"
+  "version": "0.2.1"
 }
